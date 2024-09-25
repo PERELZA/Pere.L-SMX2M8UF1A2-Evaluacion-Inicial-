@@ -21,10 +21,10 @@ Aplicaciones para hacer tareas de oficina de una forma mas fácil y sencilla.
 
 |Aplicaciones | Visto |
 |----------|:----------:|
-|Google Docs | ![Tick](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "TICK")|
-|Google Slides | ![Tick](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "TICK")|
-|Google Sheets | ![Tick](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "TICK")|
-|Google Calendar | ![Tick](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "TICK")|
-|Google Meet | ![Tick](https://github.com/PERELZA/2425-a1-pruba/blob/main/caballos.jpeg "TICK")|
+|Google Docs | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
+|Google Slides | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
+|Google Sheets | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
+|Google Calendar | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
+|Google Meet | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
 		
 
