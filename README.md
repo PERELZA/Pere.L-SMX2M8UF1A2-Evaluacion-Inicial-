@@ -24,7 +24,7 @@ Aplicaciones para hacer tareas de oficina de una forma mas fácil y sencilla.
 |Google Docs | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
 |Google Slides | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
 |Google Sheets | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
-|Google Calendar | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
-|Google Meet | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%201.jpg "TICK")|
+|Google Calendar | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programacion%202.jpg "TICK")|
+|Google Meet | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programaicon%203.jpg "TICK")|
 		
 
