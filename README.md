@@ -28,3 +28,26 @@ Aplicaciones para hacer tareas de oficina de una forma mas fácil y sencilla.
 |Google Meet | ![Tick](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/programaicon%203.jpg "TICK")|
 		
 
+6. ¿Qué es HTML ?
+```
+<!DOCTYPE html>
+<HTML Lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta  http-equiv=X-UA-Compatible" content="IE=edge>
+	<meta name="viwport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+
+7. ¿Qué es CSS?
+
+Es un lenguaje de programación que maneja el diseño
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![flujo de trabajo](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg "flujo de trabajo
+
