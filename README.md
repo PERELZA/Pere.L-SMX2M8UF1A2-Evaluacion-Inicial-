@@ -50,5 +50,5 @@ Es un lenguaje de programación que maneja el diseño
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![flujo de trabajo](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg "flujo de trabajo
+![flujo de trabajo](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg "flujo de trabajo")
 
