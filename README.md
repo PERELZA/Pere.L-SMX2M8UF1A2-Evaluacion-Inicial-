@@ -17,7 +17,7 @@ Es un software que se ejecuta en el navegador web.
 
 Aplicaciones para hacer tareas de oficina de una forma mas fácil y sencilla. 
 
-5. [Enlace a herramientas de google](https://workspace.google.com/intl/es-419/ "Herramientas de Google"):
+5. [Herramientas de google](https://workspace.google.com/intl/es-419/ "Herramientas de Google"):
 
 |Aplicaciones | Visto |
 |----------|:----------:|
@@ -50,5 +50,10 @@ Es un lenguaje de programación que maneja el diseño
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+
+<div align="center">
 ![flujo de trabajo](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg "flujo de trabajo")
+width="450">
+</div>
+
 
