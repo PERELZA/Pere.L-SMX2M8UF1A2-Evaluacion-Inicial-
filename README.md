@@ -52,7 +52,7 @@ Es un lenguaje de programación que maneja el diseño
 
 
 <div align="center">
-	![flujo de trabajo](https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg "flujo de trabajo")
+ <img src="https://github.com/PERELZA/SMX2M8UF1A2-Evaluacion-Inicial-/blob/main/pr3.jpg" alt="flujo de trabajo")
 width="450">
 </div>
 
